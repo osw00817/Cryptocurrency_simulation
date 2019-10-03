@@ -1,0 +1,15 @@
+c:\users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\obj\Debug\COIN_GAME[UNEU].csprojResolveAssemblyReference.cache
+c:\users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\obj\Debug\COIN_GAME_UNEU_.Form1.resources
+c:\users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\obj\Debug\COIN_GAME_UNEU_.Form2.resources
+c:\users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\obj\Debug\COIN_GAME_UNEU_.Properties.Resources.resources
+c:\users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\obj\Debug\COIN_GAME[UNEU].csproj.GenerateResource.Cache
+c:\users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\obj\Debug\COIN_GAME[UNEU].csproj.CoreCompileInputs.cache
+c:\users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\bin\Debug\COIN_GAME[UNEU].exe.config
+c:\users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\bin\Debug\COIN_GAME[UNEU].exe
+c:\users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\bin\Debug\COIN_GAME[UNEU].pdb
+c:\users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\obj\Debug\COIN_GAME[UNEU].exe
+c:\users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\obj\Debug\COIN_GAME[UNEU].pdb
+c:\users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\obj\Debug\COIN_GAME_UNEU_.Form3.resources
+c:\users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\obj\Debug\COIN_GAME_UNEU_.배경.resources
+c:\users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\bin\Debug\ZedGraph.dll
+C:\Users\oh seoungwon\source\repos\COIN_GAME[UNEU]\COIN_GAME[UNEU]\obj\Debug\COIN_GAME_UNEU_.Form4.resources
